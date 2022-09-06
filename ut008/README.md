@@ -1,3 +1,1 @@
-# SEGURIDAD Y ALTA DISPONIBILIDAD
-## CURSO 2022-2023
-### Nahuel Ivan Troisi
+
