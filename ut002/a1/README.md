@@ -40,13 +40,45 @@ Vamos a instala Duplicati en nuestra MV de OpenSuse mediante los siguientes coma
 
 
 
-## Creación de archivos
+## 1 - Creación de archivos
 
-## Copia de seguridad
+![](img/img001.PNG)
 
-## Eliminación de archivos
+![](img/img002.PNG)
 
-## Recuperación de archivos
+![](img/img003.PNG)
+
+![](img/img004.PNG)
+
+![](img/img005.PNG)
+
+## 2 - Copia de seguridad
+
+![](img/img006.PNG)
+
+![](img/img007.PNG)
+
+![](img/img008.PNG)
+
+![](img/img009.PNG)
+
+![](img/img010.PNG)
+
+![](img/img011.PNG)
+
+## 3 - Eliminación de archivos
+
+![](img/img012.PNG)
+
+## 4 - Recuperación de archivos
+
+![](img/img013.PNG)
+
+![](img/img014.PNG)
+
+![](img/img015.PNG)
+
+![](img/img016.PNG)
 
 ## ***Conclusiones***. <a name="id5"></a>
 
