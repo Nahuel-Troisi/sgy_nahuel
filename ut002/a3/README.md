@@ -2,7 +2,6 @@
 
 # CÁLCULO DE UN SAI
 
-
 </center>
 
 ***Nombre:*** Nahuel Ivan Troisi
