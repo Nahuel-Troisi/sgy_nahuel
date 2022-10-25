@@ -19,12 +19,16 @@
 
 #### ***Introducción***. <a name="id1"></a>
 
+Vamos a hacer el cáculo de un SAI para nuestro puestro de trabajo, tanto en el instituto como en casa.
 
 #### ***Objetivos***. <a name="id2"></a>
 
+Hacer los cálculos de energía correctamente y la búsqueda pertinente del SAI más adecuado para cada situación.
 
 #### ***Material empleado***. <a name="id3"></a>
 
+Necesitaremos hacer el cálculo previo de los Watts que consumen los equipos, además de pasar dicho consumo a VA. Una vez realizado los cálculos, buscaremos
+el SAI que más de adapte a nuestras necesidades. Finalmente, haremos uso de la MV de Kali Linux para realizar el informe. 
 
 #### ***Desarrollo***. <a name="id4"></a>
 
@@ -54,3 +58,5 @@ alrededor de 500W, lo que supone unos 625VA, con un factor de potencia del 0.8.
 
 #### ***Conclusiones***. <a name="id5"></a>
 
+Esta práctica ha sido bastante sencilla de realizar, ya que lo más complejo ha sido hacer unas simples operaciones matemáticas para sumar el consumo total de los 
+equipos. Una práctica a tener en cuenta para poder aplicar en nuestros hogares, ya que el SAI es un aparato muy útil en ciertas ocasiones. 
