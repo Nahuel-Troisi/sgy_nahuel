@@ -6,6 +6,7 @@
 </center>
 
 ***Nombre:*** Nahuel Ivan Troisi
+<br>
 ***Curso:*** 2º de Ciclo Superior de Administración de Sistemas Informáticos en Red.
 
 ### ÍNDICE
