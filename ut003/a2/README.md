@@ -61,6 +61,27 @@ Y como podemos comprobar, cada vez que la víctima acceda a una página web, se 
 
 ![](img/7.png)
 
+Otro método que podemos aplicar es el DNS SPOOFING, lo que consiste en usar nuestra máquina como servidor DNS, por lo que, cuando la víctima acceda a una web
+realmente será nuestra máquina la que le esté proporcionando la URL, lo que no da acceso a sus credenciales. 
+Es por ello que, en primer lugar, deberemos de editar el archivo de configuración de Ettercap, añadiendo la web que queremos suplantar, en este caso, Facebook. 
+
+![](img/9.png)
+
+Posteriormente, abrimos Ettercap y añadimos los respectivos Target. 
+
+![](img/10.png)
+
+Activamos el esnifado de conexiones remotas. 
+
+![](img/11.png)
+
+Habilitamos el plugin de dns_spoof. 
+
+![](img/12.png)
+
+Y probamos a acceder a la página web de Facebook con la máquina víctima, donde nos listará sus credenciales cuando éste intente entrar a la web. 
+
+![](img/13.png)
 
 #### ***Conclusiones***. <a name="id5"></a>
 
